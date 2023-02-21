@@ -1,0 +1,9 @@
+/*
+
+# Dirs
+!/src
+
+# Files
+!/.gitignore
+!/pom.xml
+!/README.md
